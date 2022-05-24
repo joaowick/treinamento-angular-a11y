@@ -19,7 +19,11 @@
 $vollkorn-font-family: 'Vollkorn', serif;
 $lato-font-family: 'Lato', sans-serif;
 
+<<<<<<< HEAD
 // TODO: #5. OK
+=======
+// TODO: #5. Ensure adequate color contrast
+>>>>>>> 709fc82883b9873a654697c15a2c2d45b0e409ff
 $light-primary: mat.define-palette(mat.$pink-palette, $default: A100, $lighter: 100, $text: 900);
 $light-accent: mat.define-palette(mat.$red-palette, $default: A400, $lighter: 100);
 
